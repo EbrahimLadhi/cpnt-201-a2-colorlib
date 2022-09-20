@@ -10,7 +10,7 @@ This theme is the best suited for business, landing page, portfolio, ecommerce, 
 
 ## Documentation
 
-Theme documentation available [here](https://colorlib.com/wp/themes/shapely/).
+  Theme documentation available [here](https://colorlib.com/wp/themes/shapely/).
 
 ## License
 
